@@ -1,5 +1,6 @@
 # build-glog-for-android
-build glog for android with ndk
+build glog for android with ndk.
+
 thanks to https://github.com/jefby/build-glog-for-android
 
 
